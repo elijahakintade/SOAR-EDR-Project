@@ -16,8 +16,9 @@ This SOAR (Security Orchestration, Automation, and Response) and EDR (Endpoint D
 
 ### Tools Used
 
-- Wazuh is an open-source security monitoring platform used for threat detection.
-- TheHive is an open-source incident response platform that helps security teams manage and investigate security incidents
-- Shuffle: A general purpose security automation platform
+- LimaCharlie: Monitoring and responding to endpoint threats.
+- Tines: Building and executing incident response playbooks.
+- Slack: Real-time communication and collaboration.
+- Python: Writing scripts for custom automation tasks.
 
 ## Steps
