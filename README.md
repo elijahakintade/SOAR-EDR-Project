@@ -7,11 +7,12 @@ This SOAR (Security Orchestration, Automation, and Response) and EDR (Endpoint D
 
 ### Skills Learned
 
-- Advanced understanding of SIEM concepts and practical application.
-- Proficiency in analyzing and interpreting network logs.
-- Ability to generate and recognize attack signatures and patterns.
-- Enhanced knowledge of network protocols and security vulnerabilities.
-- Development of critical thinking and problem-solving skills in cybersecurity.
+- Automating workflows and scripts for repetitive tasks and incident response.
+- Creating incident response playbooks to improve threat response efficiency.
+- Using Slack for effective team collaboration and incident management.
+- Deepening knowledge of security operations, threat detection, and response.
+- Enhancing problem-solving by identifying issues and automating solutions.
+- Integrating security tools via APIs for a cohesive security operations environment.
 
 ### Tools Used
 
