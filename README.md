@@ -26,6 +26,7 @@ SOAR-EDR-Project Drawing
 
 <img src="https://github.com/user-attachments/assets/5f680087-4471-44ce-b47b-1c29ba1b9c30" width="500" height="700">
 
+
 <img width="1338" alt="Screenshot 2024-07-12 at 10 12 03 AM" src="https://github.com/user-attachments/assets/b86973bc-cc4d-4ac3-9dfd-b8633657efdd">
 
 
