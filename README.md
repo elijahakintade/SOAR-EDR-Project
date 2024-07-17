@@ -22,3 +22,5 @@ This SOAR (Security Orchestration, Automation, and Response) and EDR (Endpoint D
 - Python: Writing scripts for custom automation tasks.
 
 ## Steps
+SOAR-EDR-Project Drawing
+![SOAR-EDR](https://github.com/user-attachments/assets/5f680087-4471-44ce-b47b-1c29ba1b9c30)
