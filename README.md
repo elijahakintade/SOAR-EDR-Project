@@ -70,6 +70,35 @@ SOAR-EDR-Project Drawing
 
 <img width="1439" alt="Screenshot 2024-07-12 at 11 53 39 AM" src="https://github.com/user-attachments/assets/888cebd5-c569-42fd-b6e6-e8a30b8b74db">
 
+<img width="1255" alt="Screenshot 2024-07-13 at 8 54 20 AM" src="https://github.com/user-attachments/assets/eccd4022-b4f7-4877-9bd7-330093404bf4">
+
+<img width="1037" alt="Screenshot 2024-07-13 at 9 59 19 AM" src="https://github.com/user-attachments/assets/1a00edf2-9aa9-424d-b333-e79dedba4256">
+
+<img width="1288" alt="Screenshot 2024-07-13 at 10 15 35 AM" src="https://github.com/user-attachments/assets/aa5773a7-a0c1-42ea-b443-b3f2269a301d">
+
+<img width="1307" alt="Screenshot 2024-07-13 at 10 21 59 AM" src="https://github.com/user-attachments/assets/19cde454-f664-4692-b5a4-dfb437efc146">
+
+<img width="1319" alt="Screenshot 2024-07-13 at 10 26 48 AM" src="https://github.com/user-attachments/assets/3687e356-0ebb-4975-9f9c-f7daec9c88a2">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
