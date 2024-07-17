@@ -80,22 +80,31 @@ SOAR-EDR-Project Drawing
 
 <img width="1319" alt="Screenshot 2024-07-13 at 10 26 48 AM" src="https://github.com/user-attachments/assets/3687e356-0ebb-4975-9f9c-f7daec9c88a2">
 
+<img width="975" alt="Screenshot 2024-07-13 at 10 36 04 AM" src="https://github.com/user-attachments/assets/8b98c7ce-31b8-4d0e-b8f2-cc7f821a1305">
 
+<img width="1301" alt="Screenshot 2024-07-13 at 10 41 06 AM" src="https://github.com/user-attachments/assets/44177380-22f2-4821-ade6-fb84ae32d985">
 
+<img width="1314" alt="Screenshot 2024-07-13 at 10 45 42 AM" src="https://github.com/user-attachments/assets/7a9797bc-1fb1-4b48-b628-eb836916624c">
 
+<img width="1278" alt="Screenshot 2024-07-13 at 11 13 50 AM" src="https://github.com/user-attachments/assets/ce5a186e-cd17-4791-8f2e-fac08a780235">
 
+<img width="1313" alt="Screenshot 2024-07-13 at 11 14 37 AM" src="https://github.com/user-attachments/assets/948d77fd-092f-4924-bdaf-53b1a5bde9b3">
 
+<img width="1187" alt="Screenshot 2024-07-13 at 11 28 45 AM" src="https://github.com/user-attachments/assets/d4b54f2b-5873-43ff-8eb1-02777e740006">
 
+<img width="1133" alt="Screenshot 2024-07-13 at 11 33 20 AM" src="https://github.com/user-attachments/assets/7d66bd4e-bb20-4a61-ba18-e11669799c19">
 
+<img width="1303" alt="Screenshot 2024-07-13 at 1 03 53 PM" src="https://github.com/user-attachments/assets/feceabe0-1747-457c-a1b3-b31b32e7d451">
 
+<img width="1305" alt="Screenshot 2024-07-13 at 1 31 17 PM" src="https://github.com/user-attachments/assets/67a6a81b-56eb-4de9-8573-70096e36fc89">
 
+<img width="1112" alt="Screenshot 2024-07-13 at 1 32 20 PM" src="https://github.com/user-attachments/assets/9ff3e8aa-3015-4cba-bf98-520d9d159ec6">
 
+<img width="1291" alt="Screenshot 2024-07-16 at 9 33 39 AM" src="https://github.com/user-attachments/assets/da16baf2-e210-46ae-96d6-92452e7dc5b2">
 
+<img width="1238" alt="Screenshot 2024-07-16 at 10 01 37 AM" src="https://github.com/user-attachments/assets/69b07c46-321b-4f92-99c1-2873bb09b230">
 
-
-
-
-
+<img width="1249" alt="Screenshot 2024-07-16 at 10 32 38 AM" src="https://github.com/user-attachments/assets/9d97d9b9-a381-45c2-93cc-4eeac7fec11f">
 
 
 
