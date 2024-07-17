@@ -23,5 +23,5 @@ This SOAR (Security Orchestration, Automation, and Response) and EDR (Endpoint D
 
 ## Steps
 SOAR-EDR-Project Drawing
-![SOAR-EDR](
+
 <img src="https://github.com/user-attachments/assets/5f680087-4471-44ce-b47b-1c29ba1b9c30" width="100" height="100">
